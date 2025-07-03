@@ -1,5 +1,5 @@
 # MercuryOne
-The home of the ZeroG Nebula Project!
+The home of the ZeroG Electronics Enclosure Project!
 
 
 ## License
